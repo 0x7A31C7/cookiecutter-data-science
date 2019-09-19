@@ -1,0 +1,6 @@
+
+# Dolphin KDE
+.directory
+
+# Jupyter NB Checkpoints
+.ipynb_checkpoints/
